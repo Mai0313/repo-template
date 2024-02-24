@@ -1,6 +1,9 @@
+pyautogui
+pydantic
+
 # #### Development Related ####
-# ipykernel
-# ipywidgets
+ipykernel
+ipywidgets
 pre-commit
 pytest
 sh

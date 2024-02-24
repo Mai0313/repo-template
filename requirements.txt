@@ -1,5 +1,6 @@
 pyautogui
 pydantic
+pygetwindow
 
 # #### Development Related ####
 ipykernel

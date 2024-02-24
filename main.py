@@ -28,4 +28,4 @@ class KeyboardClicker(BaseModel):
 
 
 if __name__ == "__main__":
-    KeyboardClicker(button="ctrl", clicks=None, interval=0.5).click_button()
+    KeyboardClicker(button="ctrl", clicks=None, interval=0.0).click_button()

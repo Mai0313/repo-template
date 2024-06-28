@@ -1,6 +1,9 @@
 # Data Validation
 pydantic
 
+# Data Storage
+dvc[gdrive]
+
 # Develop Tools
 poetry
 ipykernel
@@ -10,5 +13,6 @@ pre-commit
 # Pytes Tools
 pytest
 pytest-cov
+pytest-xdist
 pytest-asyncio
 genbadge[all]
